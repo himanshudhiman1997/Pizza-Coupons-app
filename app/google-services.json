@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "601930010631",
+    "firebase_url": "https://pizza-coupons.firebaseio.com",
+    "project_id": "pizza-coupons",
+    "storage_bucket": "pizza-coupons.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601930010631:android:202bc5269a0a0c83",
+        "android_client_info": {
+          "package_name": "com.mr.android.pizzacoupons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601930010631-47d2i1a9p2b402phkaomcs26j0ia827e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVe1awRBhQnmLsN_9_tUkLIHgc4S3KdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
